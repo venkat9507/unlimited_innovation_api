@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1035175500477",
+    "project_id": "football-f5a07",
+    "storage_bucket": "football-f5a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035175500477:android:b80db1eac8790807bcf5d4",
+        "android_client_info": {
+          "package_name": "com.digisailor.foot_ball_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035175500477-57jjafr8rki31f436kbtqi6dmvqb731r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2eDRV1WR6JX9-ROZY7hwYTzhtwKLXYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035175500477-57jjafr8rki31f436kbtqi6dmvqb731r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035175500477-qe1uf4f3lmkqbhbne7peu4ffo13up4jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digisailor.footBallData"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035175500477:android:a62fb60364af5679bcf5d4",
+        "android_client_info": {
+          "package_name": "com.digisailor.unlimited_innovation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035175500477-57jjafr8rki31f436kbtqi6dmvqb731r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2eDRV1WR6JX9-ROZY7hwYTzhtwKLXYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035175500477-57jjafr8rki31f436kbtqi6dmvqb731r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035175500477-qe1uf4f3lmkqbhbne7peu4ffo13up4jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digisailor.footBallData"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
